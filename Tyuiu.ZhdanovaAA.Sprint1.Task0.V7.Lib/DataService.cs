@@ -15,4 +15,4 @@ namespace Tyuiu.ZhdanovaAA.Sprint1.Task0.V7.Lib
             return 18 / 6 * 2 - (4 - 3);
         }
     }
-}
+} 

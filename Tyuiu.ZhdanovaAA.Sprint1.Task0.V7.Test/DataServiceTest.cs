@@ -16,4 +16,4 @@ namespace Tyuiu.ZhdanovaAA.Sprint1.Task0.V7.Test
             Assert.AreEqual(5, res);
         }
     }
-}
+} 
