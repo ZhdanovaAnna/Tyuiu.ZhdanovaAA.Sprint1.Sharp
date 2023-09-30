@@ -15,4 +15,4 @@ namespace Tyuiu.ZhdanovaAA.Sprint1.Task2.V4.Lib
             return value * value;
         }
     }
-}
+} 

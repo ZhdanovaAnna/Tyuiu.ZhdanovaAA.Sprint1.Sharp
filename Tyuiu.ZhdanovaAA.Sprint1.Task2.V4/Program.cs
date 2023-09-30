@@ -38,8 +38,8 @@ namespace Tyuiu.ZhdanovaAA.Sprint1.Task2.V4
             Console.WriteLine("* РЕЗУЛЬТАТ                                                               *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(ds.CalculateSquare(value));
+            Console.WriteLine($"Площадь квадрата = {ds.CalculateSquare(value)}");
             Console.ReadKey();
         }
     }
-}
+} 
